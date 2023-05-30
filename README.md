@@ -1,6 +1,6 @@
 <h1>Undergraduate Data Science in Psychology Research: Classification of Anxiety vs. Depression on Social Media using Neural Network Models</h1>
 
-[Click here to view the final poster!](https://github.com/tiffanyEspinosa/Undergraduate_Data_Science_and_Psychology_Research/files/11606612/NAU.poster.2023.pdf)
+[Click here to view the final poster!](https://github.com/tiffanyEspinosa/Undergraduate_Data_Science_in_Psychology_Research/files/11606711/NAU.poster.2023.pdf)
 
 
 <h2>Description</h2>
@@ -9,6 +9,7 @@
 
 
 <h3>Integration Test</h3>
+
 
 <p>In the integration test, Dr. Kien replicated the study conducted by Murarka et al. (2021) to compare the performance of RoBERTa and BERT in classifying subreddit posts into mental health categories. She found that RoBERTa outperformed BERT in most categories; however, the anxiety and depression categories had the lowest accuracy. Murarka et al. (2021) suggested that this could be due to the comorbid nature of anxiety and depression.</p>
 
